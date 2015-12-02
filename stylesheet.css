@@ -9,5 +9,17 @@ img{
 }
 
 body {
-	margin: 0 auto;
+	width: 760px;
+	margin: 40px auto;
+	font-family: Calibri;
+}
+
+h1{
+	border-bottom: 1px solid #c9c9c9;
+	margin-bottom:20px;
+	padding-bottom:20px;
+}
+
+.full-width {
+	width:100%;
 }
